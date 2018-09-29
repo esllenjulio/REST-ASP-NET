@@ -1,0 +1,14 @@
+C:\Users\Esllen Julio\Documents\Projetos aula\REST-ASP-NET\REST_ASP_NET\REST_ASP_NET\bin\Debug\netcoreapp2.1\REST_ASP_NET.deps.json
+C:\Users\Esllen Julio\Documents\Projetos aula\REST-ASP-NET\REST_ASP_NET\REST_ASP_NET\bin\Debug\netcoreapp2.1\REST_ASP_NET.runtimeconfig.json
+C:\Users\Esllen Julio\Documents\Projetos aula\REST-ASP-NET\REST_ASP_NET\REST_ASP_NET\bin\Debug\netcoreapp2.1\REST_ASP_NET.runtimeconfig.dev.json
+C:\Users\Esllen Julio\Documents\Projetos aula\REST-ASP-NET\REST_ASP_NET\REST_ASP_NET\bin\Debug\netcoreapp2.1\REST_ASP_NET.dll
+C:\Users\Esllen Julio\Documents\Projetos aula\REST-ASP-NET\REST_ASP_NET\REST_ASP_NET\bin\Debug\netcoreapp2.1\REST_ASP_NET.pdb
+C:\Users\Esllen Julio\Documents\Projetos aula\REST-ASP-NET\REST_ASP_NET\REST_ASP_NET\obj\Debug\netcoreapp2.1\REST_ASP_NET.csprojAssemblyReference.cache
+C:\Users\Esllen Julio\Documents\Projetos aula\REST-ASP-NET\REST_ASP_NET\REST_ASP_NET\obj\Debug\netcoreapp2.1\REST_ASP_NET.csproj.CoreCompileInputs.cache
+C:\Users\Esllen Julio\Documents\Projetos aula\REST-ASP-NET\REST_ASP_NET\REST_ASP_NET\obj\Debug\netcoreapp2.1\REST_ASP_NET.RazorAssemblyInfo.cache
+C:\Users\Esllen Julio\Documents\Projetos aula\REST-ASP-NET\REST_ASP_NET\REST_ASP_NET\obj\Debug\netcoreapp2.1\REST_ASP_NET.RazorAssemblyInfo.cs
+C:\Users\Esllen Julio\Documents\Projetos aula\REST-ASP-NET\REST_ASP_NET\REST_ASP_NET\obj\Debug\netcoreapp2.1\REST_ASP_NET.AssemblyInfoInputs.cache
+C:\Users\Esllen Julio\Documents\Projetos aula\REST-ASP-NET\REST_ASP_NET\REST_ASP_NET\obj\Debug\netcoreapp2.1\REST_ASP_NET.AssemblyInfo.cs
+C:\Users\Esllen Julio\Documents\Projetos aula\REST-ASP-NET\REST_ASP_NET\REST_ASP_NET\obj\Debug\netcoreapp2.1\REST_ASP_NET.RazorTargetAssemblyInfo.cache
+C:\Users\Esllen Julio\Documents\Projetos aula\REST-ASP-NET\REST_ASP_NET\REST_ASP_NET\obj\Debug\netcoreapp2.1\REST_ASP_NET.dll
+C:\Users\Esllen Julio\Documents\Projetos aula\REST-ASP-NET\REST_ASP_NET\REST_ASP_NET\obj\Debug\netcoreapp2.1\REST_ASP_NET.pdb
